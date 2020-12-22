@@ -10,6 +10,7 @@ which are inherited from BaseHelper.
 Each page/helper class should extends BaseHelper.
 
 for eg.
+
 package tests;
 
 import org.junit.Test;
@@ -19,6 +20,6 @@ public class probeClassTest extends BaseTest
     @Test
     public void probe()
     {
-
+        // your code
     }
 }
